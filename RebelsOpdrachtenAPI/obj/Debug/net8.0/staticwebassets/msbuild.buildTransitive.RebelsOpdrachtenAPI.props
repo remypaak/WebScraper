@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RebelsOpdrachtenAPI.props" />
+</Project>
